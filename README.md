@@ -1,115 +1,42 @@
-<div align="center">
+<img src="assets/banner.svg" alt="Rafael Mahesa Bayu Raditya, Information Systems undergraduate at Brawijaya University" width="100%">
 
-<table width="100%">
-<tr>
-<td width="64%" valign="middle">
-<p><sub>RECRUITER SIGNAL BRIEF · rafaelsfix10smbr</sub></p>
-<h1>Rafael M. B. Raditya</h1>
-<h2>Frontend or full-stack engineer</h2>
-<p>Information Systems student at Universitas Brawijaya aspiring data scientist. Python, SQL, ML basics, Git. Open to internships and collaboration.</p>
-<p><strong>● Building and sharing work in public</strong></p>
-<p><sub>Based in Malang · Building at Brawijaya University</sub></p>
-<p><a href="https://github.com/rafaelsfix10smbr">GitHub</a></p>
-</td>
-<td width="36%" valign="middle" align="center">
-<img src="https://avatars.githubusercontent.com/u/63643015?u=9ea082ea8d75febdc9244fcb143328ad703a688d&amp;v=4" width="180" alt="Rafael M. B. Raditya GitHub avatar" />
-</td>
-</tr>
-</table>
-</div>
+Machine learning is where my curiosity is heading, with web and app development and a creative eye for photography, video and design.
 
-<h2>What teams can evaluate quickly</h2>
+Portfolio site · LinkedIn · Instagram · Email
 
-<table width="100%">
-<tr>
-<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · Jupyter Notebook · HTML · Java</p></td>
-<td width="33%" valign="top"><h3>Public proof</h3><p>13 repositories · 0 stars</p></td>
-<td width="33%" valign="top"><h3>Momentum</h3><p>75 contributions · 34 active days</p></td>
-</tr>
-</table>
+About
+<img src="assets/portrait.jpg" alt="Portrait of Rafael in a black suit and tie" width="180" align="right">
 
-<p><sub>Information Systems student at Universitas Brawijaya aspiring data scientist. Python, SQL, ML basics, Git. Open to internships and collaboration.</sub></p>
+I'm an Information Systems undergraduate at Brawijaya University. I enjoy the whole path from messy data to a working model: exploratory data analysis, cleaning, preprocessing, modeling and computer vision, which is how a machine learns to see.
 
-<h2>Proof at a glance</h2>
+Alongside that I build for the web and for mobile, and I bring over four years of graphic design, photography and video editing to everything I make. I've led the media and information team for an event committee, and I evaluate and improve after every project.
 
-<table width="100%">
-<tr>
-<td width="25%" align="center"><strong>13</strong><br /><sub>Repositories</sub></td>
-<td width="25%" align="center"><strong>0</strong><br /><sub>Stars</sub></td>
-<td width="25%" align="center"><strong>75</strong><br /><sub>Contributions</sub></td>
-<td width="25%" align="center"><strong>1</strong><br /><sub>Followers</sub></td>
-</tr>
-</table>
+Skills
+	
+Machine learning	Exploratory data analysis, data cleaning, preprocessing, modeling, computer vision
+Web	HTML, CSS, PHP, SQL integration, Laravel
+Mobile	Basic Android apps in Flutter
+Creative	Figma, Canva, Adobe Premiere Pro, CapCut. Feeds, ID cards, guidebooks, lanyards, teaser videos, event photography
+Data science portfolio
+<!-- Replace the link below with your data science repo, then pin that repo on your profile. -->
 
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=rafaelsfix10smbr&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F63643015%3Fu%3D9ea082ea8d75febdc9244fcb143328ad703a688d%26v%3D4&v=recruiter-stats-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stats?username=rafaelsfix10smbr&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F63643015%3Fu%3D9ea082ea8d75febdc9244fcb143328ad703a688d%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Rafael M. B. Raditya GitHub proof metrics" />
-</picture>
-</p>
+Data Science Portfolio Data cleaning, exploration and machine learning work.
 
-<h2>Selected work</h2>
+Experience
 
-<table width="100%">
-<tr>
-<td width="58%" valign="top">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=rafaelsfix10smbr&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F63643015%3Fu%3D9ea082ea8d75febdc9244fcb143328ad703a688d%26v%3D4&repos=rafaelsfix10smbr%2Ftugas-rsi2%2Crafaelsfix10smbr%2Fraion-academy2%2Crafaelsfix10smbr%2Ftugas-rsi%2Crafaelsfix10smbr%2Fraion-academy&v=recruiter-projects-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/projects?username=rafaelsfix10smbr&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F63643015%3Fu%3D9ea082ea8d75febdc9244fcb143328ad703a688d%26v%3D4&repos=rafaelsfix10smbr%2Ftugas-rsi2%2Crafaelsfix10smbr%2Fraion-academy2%2Crafaelsfix10smbr%2Ftugas-rsi%2Crafaelsfix10smbr%2Fraion-academy&v=recruiter-projects-1&mode=dark" width="100%" alt="Rafael M. B. Raditya selected projects" />
-</picture>
-</td>
-<td width="42%" valign="top">
-<h3><a href="https://github.com/RAFAELSFIX10SMBR/tugas-rsi2">tugas-rsi2</a></h3>
-<p>A selected public project.</p>
-<p><sub>Java · ⭐ 0 · 🍴 0</sub></p>
-<p><a href="https://github.com/RAFAELSFIX10SMBR/tugas-rsi2">Read the repository →</a></p>
-</td>
-</tr>
-</table>
+Coordinator of Media and Information, Jambore Rohani UAKKAT April to November 2026. Led the media and information team, photographed and designed the Committee Reveal feeds and staff ID cards, and edited the event teaser video.
 
-<table width="100%">
-<tr>
-<td width="33%" valign="top"><h3><a href="https://github.com/RAFAELSFIX10SMBR/raion-academy2">raion-academy2</a></h3><p>A selected public project.</p><p><sub>C++ · ⭐ 0</sub></p></td>
-<td width="33%" valign="top"><h3><a href="https://github.com/RAFAELSFIX10SMBR/tugas-rsi">tugas-rsi</a></h3><p>A selected public project.</p><p><sub>Java · ⭐ 0</sub></p></td>
-<td width="33%" valign="top"><h3><a href="https://github.com/RAFAELSFIX10SMBR/raion-academy">raion-academy</a></h3><p>A selected public project.</p><p><sub>C++ · ⭐ 0</sub></p></td>
-</tr>
-</table>
+Staff, Design and Multimedia, Paskah UB April to May 2026. Photographed and designed Committee Reveal feeds and staff ID cards, and documented the event.
 
-<h2>Technical toolkit</h2>
+Staff, Design and Multimedia, Women Empowerment Cup, FILKOM March to May 2026. Designed the guidebook cover and background, staff ID cards and lanyards, and edited the teaser video.
 
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=rafaelsfix10smbr&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F63643015%3Fu%3D9ea082ea8d75febdc9244fcb143328ad703a688d%26v%3D4&v=recruiter-stack-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stack?username=rafaelsfix10smbr&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F63643015%3Fu%3D9ea082ea8d75febdc9244fcb143328ad703a688d%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Rafael M. B. Raditya technology stack" />
-</picture>
-</p>
+Education and organizations
+Brawijaya University, Undergraduate of Information Systems, 2025 to present
+Saint Joseph College Catholic Senior High School, 2022 to 2025
+ShARE Brawijaya University, Business and Growth Department, November 2026 to present
+Google Developer Groups on Campus Brawijaya University, Core Team, Media Creative Division, August 2026 to present
+Unit Aktivitas Kerohanian Katolik (UAKKat), Media and Information Division, March to December 2026
+OPTIIK FILKOM, Media, Information and Communications Department, February to December 2026
+Contact
 
-<table width="100%">
-<tr>
-<td width="20%" align="center"><strong>Jupyter Notebook</strong><br /><sub>96% of public code</sub></td>
-<td width="20%" align="center"><strong>HTML</strong><br /><sub>3% of public code</sub></td>
-<td width="20%" align="center"><strong>Java</strong><br /><sub>0% of public code</sub></td>
-<td width="20%" align="center"><strong>C++</strong><br /><sub>0% of public code</sub></td>
-<td width="20%" align="center"><strong>Dart</strong><br /><sub>0% of public code</sub></td>
-</tr>
-</table>
-
-<h2>Consistency signal</h2>
-
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=rafaelsfix10smbr&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F63643015%3Fu%3D9ea082ea8d75febdc9244fcb143328ad703a688d%26v%3D4&v=recruiter-heatmap-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/heatmap?username=rafaelsfix10smbr&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F63643015%3Fu%3D9ea082ea8d75febdc9244fcb143328ad703a688d%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Rafael M. B. Raditya contribution activity" />
-</picture>
-</p>
-
-<hr />
-
-<table width="100%">
-<tr>
-<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
-<td width="38%" valign="middle" align="right"><a href="https://github.com/rafaelsfix10smbr">GitHub</a></td>
-</tr>
-</table>
-
-<p align="center"><sub>Rafael M. B. Raditya · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+Open to working together: m.bayu1405@gmail.com

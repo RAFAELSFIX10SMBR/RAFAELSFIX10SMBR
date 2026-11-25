@@ -64,7 +64,7 @@ A mix of the creative work I've made for Jambore Rohani, Paskah UB and WE CUP FI
 <h2><img src="assets/h-portfolio.svg" alt="Portfolio" width="100%"></h2>
  
 <!-- Replace YOUR-DATA-SCIENCE-REPO with the repo name, then pin that repo on your profile. -->
-**[Data Analytics](https://github.com/RAFAELSFIX10SMBR/YOUR-DATA-SCIENCE-REPO)**
+**[Data Analytics](https://github.com/RAFAELSFIX10SMBR/datascience-portofolio)**
 Data cleaning, exploration and machine learning work.
  
 **Web Development**, coming soon

@@ -1,4 +1,4 @@
-<img src="assets/hero.svg" alt="Rafael Mahesa Bayu Raditya. Exploring machine learning. Information Systems undergraduate at Brawijaya University, growing into machine learning with a creative eye for photography, video and design." width="100%">
+<img src="hero.svg" alt="Rafael Mahesa Bayu Raditya. Exploring machine learning. Information Systems undergraduate at Brawijaya University, growing into machine learning with a creative eye for photography, video and design." width="100%">
 [Email me](mailto:m.bayu1405@gmail.com) · [LinkedIn](https://www.linkedin.com/in/rafael-mahesa-bayu-raditya-683356371/) · [Instagram](https://www.instagram.com/rafaellmahesaa/) · [Portfolio site](https://rafaelsfix10smbr.github.io/portfolio-prototype/Rafael%20Mahesa%20Bayu%20Raditya.html)
  
 <h2><img src="assets/h-about.svg" alt="About Me" width="100%"></h2>
